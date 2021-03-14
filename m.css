@@ -1,0 +1,56 @@
+body{
+	
+	background: #f4abeb;
+	font-family: 'Sriracha', cursive;
+
+}
+h1{
+	color: rgb(255, 255, 255);
+}
+
+#main .navbar-brand{
+	color:#e01111;
+	text-transform: uppercase;
+
+}
+#navbarNavDropdown .nav-link{
+	color:rgb(27, 147, 228);
+}
+ #main{
+ 	font-size:1.5rem;
+	font-weight: 100;
+
+ }
+ #main .nav-link:hover{
+ 	color:#e01111;
+
+
+ }
+ #b{
+ 	background-size: cover;
+ 	text-align: right;
+ }
+ #text span{
+ 	color: red;
+ }
+ #text{
+ 	font-weight: 25;
+ 	text-align:center;
+ 	 
+ }
+
+ @media(max-width: 1200px){
+ 	#text h1{
+		 font-size: 3rem;
+		 
+
+ 	}
+ }
+ div p{
+ 	font-weight: 100;
+ 	color: #61b8db;
+ }
+ div h4{
+ 	color:red;
+ }
+ 
